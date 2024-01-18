@@ -26,9 +26,8 @@ pip install matplotlib
 4. **View Performance Video:**
    For a demonstration of the agent achieving a perfect score, watch the embedded video below:
 
-   <video width="640" height="360" controls>
-      <source src=["C:\\Users\\nagaj\\Downloads\\game play visualisation.mp4"](https://github.com/nagajavisetty/Automation-of-PACMAN-using-reinforcement-learning/assets/95474112/69fd5961-a184-4e04-9655-95a7c8a0c7fa) type="video/mp4">
-   </video>
+   ["C:\\Users\\nagaj\\Downloads\\game play visualisation.mp4"](https://github.com/nagajavisetty/Automation-of-PACMAN-using-reinforcement-learning/assets/95474112/69fd5961-a184-4e04-9655-95a7c8a0c7fa)
+   
 
 5. **Customization:**
    - Adjust hyperparameters and configurations in the training section based on your requirements.
