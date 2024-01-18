@@ -45,4 +45,3 @@ pip install matplotlib
 - Feel free to explore, modify, and contribute to enhance the reinforcement learning experience.
 
 Happy coding and enjoy watching your agent achieve a perfect score in Ms. PAC-MAN! 🕹️🚀
-```
