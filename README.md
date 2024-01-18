@@ -15,7 +15,7 @@ pip install matplotlib
 
 1. **Clone Repository:**
    
-   git clone [https://github.com/your-username/mspacman-reinforcement-learning.git](https://github.com/nagajavisetty/Automation-of-PACMAN-using-reinforcement-learning)
+   git clone [[https://github.com/your-username/mspacman-reinforcement-learning.git](https://github.com/nagajavisetty/Automation-of-PACMAN-using-reinforcement-learning)](https://github.com/nagajavisetty/Automation-of-PACMAN-using-reinforcement-learning.git)
 
 2. **Run the Code:**
    Execute the provided Python script:
@@ -27,8 +27,7 @@ pip install matplotlib
    For a demonstration of the agent achieving a perfect score, watch the embedded video below:
 
    <video width="640" height="360" controls>
-      <source src="C:\\Users\\nagaj\\Downloads\\game play visualisation.mp4" type="video/mp4">
-      Your browser does not support the video tag.
+      <source src=["C:\\Users\\nagaj\\Downloads\\game play visualisation.mp4"](https://github.com/nagajavisetty/Automation-of-PACMAN-using-reinforcement-learning/assets/95474112/69fd5961-a184-4e04-9655-95a7c8a0c7fa) type="video/mp4">
    </video>
 
 5. **Customization:**
